@@ -1,0 +1,1 @@
+haproxy -W -f /usr/local/etc/haproxy/haproxy.cfg

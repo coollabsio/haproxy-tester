@@ -1,4 +1,6 @@
 # How to use?
+Copy `haproxy.cfg.template` to `haproxy.cfg`
+
 `bash start.sh` to start all the stuffs (proxy, examples) in docker.
 
 `bash proxy.sh` to start Haproxy inside the container.
